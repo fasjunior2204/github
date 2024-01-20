@@ -1,1 +1,1 @@
-Alteraçando o arquivo
+Alterando o arquivo
